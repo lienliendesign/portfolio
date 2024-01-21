@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,d as s}from"./index-5b0fd392.js";const c={},n={class:"footer text-center"},r=s("p",{class:"font-sans text-gray-400"}," Lien De Buyser © ",-1),_=[r];function a(d,i){return t(),o("div",n,_)}const p=e(c,[["render",a]]);export{p as F};
